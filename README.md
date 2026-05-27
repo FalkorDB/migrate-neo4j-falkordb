@@ -3,7 +3,7 @@
 
 [![license](https://img.shields.io/github/license/falkordb/migrate-neo4j-falkordb.svg)](https://github.com/falkordb/migrate-neo4j-falkordb)
 [![Forum](https://img.shields.io/badge/Forum-falkordb-blue)](https://github.com/orgs/FalkorDB/discussions)
-[![Discord](https://img.shields.io/discord/1146782921294884966?style=flat-square)](https://discord.gg/ErBEqN9E)
+[![Discord](https://img.shields.io/discord/1146782921294884966?style=flat-square)](https://discord.gg/6M4QwDXn2w)
 
 # Migrate from Neo4j to FalkorDB
 This repository demonstrates how to **migrate a graph from Neo4j to FalkorDB**.  
